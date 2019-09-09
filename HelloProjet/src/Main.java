@@ -14,6 +14,8 @@ public class Main {
   System.out.println("lisi修改");
 >>>>>>> 6724dbb93355747f83dd24316befcd54ffa540a9
  System.out.println("lisi合并");
+ System.out.println("lisi发23");
+
 
 
     }
