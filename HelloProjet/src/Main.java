@@ -6,7 +6,7 @@ public class Main {
     public void testHelloWrold() {
 
         System.out.println("HelloWorld!");
-        System.out.println("新的代码被提交2222");
+        System.out.println("新的代码被提交2222123");
 
     }
 }
